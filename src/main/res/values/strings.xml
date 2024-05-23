@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarRental_HomePage</string>
+    <string name="click_to_log_in">Click to Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="lot">Lot</string>
+    <string name="block">Block</string>
+    <string name="subdivision">Subdivision</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up_form">Sign Up Form</string>
+
+</resources>
